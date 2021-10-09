@@ -43,7 +43,7 @@ function divisionAsignacio()
 }
 //*Funcionamiento de los calculos*//
 var cop1,cop2,cop;
-var insiginia = document.getElementById("insignia")
+var insignia = document.getElementById("insignia")
 
 function ndigit(d)
 {
